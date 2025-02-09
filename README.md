@@ -1,4 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;I'm+Rahaf!!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Rahaf</h1>
 <h3 align="center">A passionate frontend developer</h3>
@@ -16,14 +17,14 @@
 
 - 📫 How to reach me **rahaf.bashandy65@gmail.com**
 
-- ⚡ Fun fact **I can remember song lyrics from years ago, but I forget why I walked into a room!**
+- ⚡ Fun fact **I can remember song lyrics from years ago, but I forget why I just walked into a room!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rirsenior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rirsenior" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahaf anwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahaf anwar" height="30" width="40" /></a>
 <a href="https://instagram.com/go.uhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="go.uhin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rahafanwar1531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rahafanwar1531" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/rahafanwar1531](https://www.youtube.com/channel/UCzzQi3YF5gI2UdABBrv0ZWA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rahafanwar1531" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
