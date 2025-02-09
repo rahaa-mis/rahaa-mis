@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;I'm+Rahaf!;A+passionate+frontend+developer;and+Management+Information+System+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;I'm+Rahaf!;A+passionate+frontend+developer+and;Management+Information+System+Student)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Rahaf</h1>
 
