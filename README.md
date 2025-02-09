@@ -2,7 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;I'm+Rahaf!!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Rahaf</h1>
+
 <h3 align="center">A passionate frontend developer</h3>
+
 <img align="right" width="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/2a53651a35816f499270d8275fd5318f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahaa-mis&label=Profile%20views&color=0e75b6&style=flat" alt="rahaa-mis" /> </p>
